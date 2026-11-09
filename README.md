@@ -11,10 +11,10 @@ This page holds the installers for the SermonSignal desktop app. The newest one 
 
 ## Mac
 
-1. Download the file ending in `.dmg`. Pick `arm64` for a Mac with an Apple chip (M1 or later) and `x64` for an older Intel Mac.
-2. Open the file and drag SermonSignal into Applications.
+1. Download the file ending in `.dmg`. Pick `apple-silicon` for a Mac with an Apple chip (M1 or later) and `intel` for an older Intel Mac.
+2. Open the file and drag the app into Applications. It is listed there as **VibeCut AI**, the app's working name.
 3. Open it once. macOS says it cannot check the app. Close that message.
-4. Open **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to SermonSignal.
+4. Open **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to VibeCut AI.
 5. To update later, download the newest `.dmg` from this page and replace the app.
 
 The warnings appear because the app is not yet registered with Microsoft's and Apple's paid developer programmes. The files here are built from the SermonSignal source by an automated build.
